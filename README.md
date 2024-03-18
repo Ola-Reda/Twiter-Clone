@@ -14,7 +14,7 @@ https://ola-reda.github.io/Twitter-clone/
 
 Twitter-clone is Tailwind project
 
-the project created using Tailwindcss 
+the project created using Tailwindcss and Heroicons
 
 Dark and Light Mode
 
